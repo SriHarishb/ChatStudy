@@ -1,5 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+### Name: Sri Harish B
+### Reg No: 212223220110
+### Dept: Btech-IT
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
